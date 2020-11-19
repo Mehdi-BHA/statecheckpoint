@@ -5,6 +5,17 @@
 .profile{
   border: 3px solid black;
   width: 200px;
+  padding: 10px;
+  margin: 50px auto;
+}
+
+.App button{
+  display:inline-block;
+  width: 10%;
+  padding:10px;
+  margin: 10px 45%;
+  font-size: 18px;
+  align-items: center;
 }
 
 .profile img {
@@ -14,4 +25,5 @@
 fieldset{
   width:100px;
   text-align: center;
+  margin: 10px auto;
 }
